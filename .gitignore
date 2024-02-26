@@ -1,0 +1,10 @@
+# 通用文件
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 资源文件夹
+EasySurvivalRPG/
+AdvancedVillagePack/

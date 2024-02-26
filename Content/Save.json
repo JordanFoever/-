@@ -1,0 +1,94 @@
+{
+	"InventoryItems": [
+		{
+			"tableRowName": "40001",
+			"count": 0,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 0,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 0,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 0,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 71,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 99,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 99,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 99,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 99,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40001",
+			"count": 39,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40002",
+			"count": 99,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40002",
+			"count": 99,
+			"duration": -1
+		},
+		{
+			"tableRowName": "40002",
+			"count": 2,
+			"duration": -1
+		},
+		{
+			"tableRowName": "20003",
+			"count": 0,
+			"duration": -1
+		},
+		{
+			"tableRowName": "None",
+			"count": 0,
+			"duration": -1
+		},
+		{
+			"tableRowName": "None",
+			"count": 0,
+			"duration": -1
+		},
+		{
+			"tableRowName": "None",
+			"count": 0,
+			"duration": -1
+		},
+		{
+			"tableRowName": "None",
+			"count": 0,
+			"duration": -1
+		}
+	]
+}
